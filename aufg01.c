@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h> //fuer die Sinusfunktion
-#define PI 3.14159265
 
 /*a)Programm um Daten aus dataset1 einzulesen und auf dem Bildschrim auszugeben.
  dataset1 enthaehlt in 1. Zeile Integer der Laenge des Datensatzes (doubles) angibt
